@@ -30,7 +30,8 @@ function giveReward(){
 
 adSlot.style.cursor = 'pointer';
 adSlot.addEventListener('click', ()=>{
-  const url = 'https://example.com/?ref=twoj_program'; 
+  const url = 'https://savebig.pro/a/1wQ87sEg9upwD8'; 
   window.open(url, '_blank');
   console.log('Użytkownik kliknął reklamę (demo).');
 });
+
